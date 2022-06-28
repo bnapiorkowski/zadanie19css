@@ -1,0 +1,21 @@
+section{
+    background-color: #f5f5dd
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.j{
+    background: #000;
+}
+.d{
+background: rgba(0,0,0,0.5)
+}
+.t{
+    background: rgba(0,0,0,0.4)
+}
+.cz{
+    background: rgba(0,0,0,0.2)
+}
